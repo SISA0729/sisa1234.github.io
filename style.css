@@ -1,0 +1,56 @@
+body{
+    background-color: #218db1;
+    color: white;    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+header{
+    background-color: azure;
+    border-radius: 30px;
+}
+h1{
+    color: #218db1;
+    text-align: center;
+    padding: 10px;
+}
+.indice{
+    color: azure;
+    text-align: left;
+}
+h2{
+    color: azure;
+}
+nav{
+    background-color: azure;
+    padding: 20px;
+    border-radius: 30px;
+}
+nav, a{
+    font-size: 30px;
+}
+nav, a:hover{
+    color: #218db1;
+}
+li{
+    list-style: none;
+}
+.naranja{
+    float: left;
+    padding: 1%;
+}
+.amarillo{
+    float: right;
+    padding: 1%;
+}
+.rojo{
+    float: left;
+    padding-right: 1%;
+}
+.blanco{
+    float: right;
+    padding-left: 1%;
+}
+p{
+    font-size: large;
+    padding: 4px;
+}
